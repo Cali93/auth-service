@@ -2,3 +2,5 @@
 .env
 dump.rdb
 yarn.lock
+yarn-error.log
+/test/utils/testConn.ts
